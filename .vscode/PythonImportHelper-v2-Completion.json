@@ -1155,28 +1155,28 @@
     {
         "label": "add",
         "kind": 2,
-        "importPath": "1st_half.aiml_2-5(PythonRef).day 4.collection",
-        "description": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "importPath": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "description": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "peekOfCode": "def add(a,b):\n    return a+b\n# In[ ]:\ndef multiply(a,b):\n    return a*b\n# In[ ]:\ndef subtract(a,b):\n    return a-b",
-        "detail": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "detail": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "documentation": {}
     },
     {
         "label": "multiply",
         "kind": 2,
-        "importPath": "1st_half.aiml_2-5(PythonRef).day 4.collection",
-        "description": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "importPath": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "description": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "peekOfCode": "def multiply(a,b):\n    return a*b\n# In[ ]:\ndef subtract(a,b):\n    return a-b",
-        "detail": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "detail": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "documentation": {}
     },
     {
         "label": "subtract",
         "kind": 2,
-        "importPath": "1st_half.aiml_2-5(PythonRef).day 4.collection",
-        "description": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "importPath": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "description": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "peekOfCode": "def subtract(a,b):\n    return a-b",
-        "detail": "1st_half.aiml_2-5(PythonRef).day 4.collection",
+        "detail": "AiLabs.1st_half.aiml_2-5(PythonRef).day 4.collection",
         "documentation": {}
     },
     {
